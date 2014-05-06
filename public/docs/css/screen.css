@@ -1,0 +1,124 @@
+/* Fonts */
+
+@font-face {
+	font-family: 'LydianBT-Roman';
+	src: url('../fonts/Lydian/LydiaBTRom.eot');
+}
+@font-face {
+	font-family: 'LydianBT-Roman';
+	src: url('../fonts/Lydian/LydiaBTRom.woff') format('woff'),
+	url('../fonts/Lydian/LydiaBTRom.svg#LydianBT-Roman') format('svg');
+}
+@font-face {
+	font-family: 'Menlo-Regular';
+	src: url('Menlo-Regular.eot');
+}
+@font-face {
+	font-family: 'Menlo-Regular';
+	src: url('Menlo-Regular.woff') format('woff'),
+	url('Menlo-Regular.svg#Menlo-Regular') format('svg');
+}
+@font-face {
+	font-family: 'Novecentosans-Bold';
+	src: url('NovecentosansBold.eot');
+}
+@font-face {
+	font-family: 'Novecentosans-Bold';
+	src: url('NovecentosansBold.woff') format('woff'),
+	url('NovecentosansBold.svg#Novecentosans-Bold') format('svg');
+}
+@font-face {
+	font-family: 'Novecentosans-Book';
+	src: url('NovecentosansBook.eot');
+}
+@font-face {
+	font-family: 'Novecentosans-Book';
+	src: url('NovecentosansBook.woff') format('woff'),
+	url('NovecentosansBook.svg#Novecentosans-Book') format('svg');
+}
+
+/* Colours */
+
+body, a { color: #222; }
+em, em a, strong, p.date, div#project-navigation p { color: #999; }
+
+/* Typography */
+
+body { font-family: "Menlo-Regular", sans-serif; serif; line-height: 1.3; }
+ul li, p, em, div.description { font-size: 13px; font-style: normal; }
+h1 { font-size: 13px; font-weight: normal; }
+h1 strong { font-weight: normal; text-transform: none; display: block; letter-spacing: 0px; }
+h2 { font-family: "LydianBT-Roman", times, serif; font-size: 60px; margin: 0px; font-weight: lighter; letter-spacing: 0.02em; }
+p.date { font-size: 11px; letter-spacing: 0.03em; }
+a { text-decoration: none; }
+p#project-count, p#gallery-count { text-align: right; }
+p#gallery-count span { letter-spacing: 0.08em; }
+
+/* Layout */
+
+body { padding: 10px 0px 40px; text-align: center; }
+div#container { margin: 0px auto; width: 860px; padding: 5px 20px; text-align: left; /*background: url('/images/grid-bg.gif') 20px 0px;*/ }
+
+.col { margin-left: auto; margin-right: auto; padding: 0px; text-align: center; }
+.col .col { margin-left: auto; margin-right: auto; }
+
+.one { width: 380px; }
+.two { width: 250px; }
+.three { width: 220px; }
+.four { width: 300px; }
+.five { width: 800px; }
+.six { width: 460px; }
+.seven { width: 620px; }
+.eight { width: 620px; }
+.nine { width: 700px; }
+.ten { width: 780px; }
+.eleven { width: 860px; }
+.twelve { width: 940px; }
+
+.description {font-family: "Menlo-Regular", sans-serif; font-size: 16px; text-align: center; font-weight: normal; margin-top: -14px; }
+.headname { font-size: 35px; font-family:"Novecentosans-Bold", sans-serif; text-align: center; text-align: center; clear: both; }
+#navi {font-family:"Arial", sans-serif; text-align: center; text-align: center; clear: both; }
+#gif {z-index: 10; position: absolute; left:120px; top:150px; }
+
+p { margin: 0px 0px 5px; }
+
+hr { display: block; clear: both; margin: 0px 0px 45px; padding: 0px; height: 0px; overflow: hidden; visibility: hidden; }
+.col hr { margin: 0px 0px 50px; }
+
+ul li { margin: 0px 0px 3px; }
+ul#navigation, ul.projects { list-style: none; padding: 0px; margin: 0px; }
+ul#navigation { margin: 0px 0px -5px 280px; }
+ul#navigation li, ul.projects li { clear: none; float: left; font-size: 15px; margin-left: 0px; padding-left: 0px; }
+ul#navigation li, ul { padding-left: 26px; }
+ul#navigation ol { display: none; margin: 0px; padding: 4px 0px 4px 25px; }
+ul.projects li { padding: 0px 0px 8px 5px; }
+
+p#footer { margin: 0px 0px 0px 260px; display: inline; line-height: 1.4; }
+
+p.date { text-align: right; padding: 25px 0px 0px 0px; }
+div.description p { clear: both; }
+div.description h2 { padding: 0px 0px 15px; }
+
+div#media { clear: both; padding: 30px 0px 0px 70px; }
+div.media { margin: 0px 0px 10px; }
+div.description div#images { padding: 0px 0px 0px 0px; }
+div#media img { margin: 0px 0px 10px; }
+p#project-count, p#gallery-count { margin: 2px 20px 0px 0px; }
+p#gallery-count, div#gallery-navigation { display: none; }
+p#gallery-count span { margin: -1px 0px 0px; display: block; }
+div#project-navigation { margin: 0px 0px 0px 20px; }
+div#project-navigation p, div#gallery-navigation p { margin: 0px 0px 1px; }
+
+div#image-wrapper { overflow: hidden; width: 560px; }
+div#image-wrapper div#image-holder { width: 100000000px; }
+div#image-wrapper div#image-holder div.image { width: 560px; }
+
+img.project-thumb { padding: 0px 10px 5px 0px; display: none; }
+
+a.atom-rss { margin: 0px 0px 0px 6px; padding: 1px 2px 0px; font-size: 0.93em; letter-spacing: 0.08em; background: #ddd; }
+
+/* Javascript-enabled styles */
+body.js-enabled p#gallery-count, body.js-enabled div#gallery-navigation { display: block; }
+body.js-enabled p#project-count { display: none; }
+body.js-enabled div#media div.image { display: none; }
+body.js-enabled div#media div.image:first-child { display: block; }

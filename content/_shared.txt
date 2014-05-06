@@ -1,0 +1,6 @@
+name: SOREN AAGAARD
+-
+profession: Video Artist 	
+-
+email: 
+<SA@yourdomain.com>

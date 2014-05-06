@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>SOREN AAGAARD</title>
+    <link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+
+  </head>
+  <body>
+    <div id="gif">
+      <img src="public/docs/other/gif.gif">
+    </div>
+    <div id="container">
+      <div id="content" class="col eight">
+       
+        <h1 class="col five">
+        <a class="headname" href="./">SOREN AAGAARD</a>
+          <div id="navi">
+          <ul id="navigation" class="col two">
+      <li>
+      <a href="./?/projects/">WORKS</a>
+        <ol class="children">
+      <li>
+      <a href="./?/projects/test/">Test</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/project-1/">Project 1</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/movie-project-2/">Movie Project 2</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/project-name-3/">Project Name 3</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/youtube-project-4/">Youtube Project 4</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/vimeo-project-5/">Vimeo Project 5</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/swf-project-6/">Swf Project 6</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/mixed-media-project-7/">Mixed Media Project 7</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/project-name-8/">Project Name 8</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/project-name-9/">Project Name 9</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/project-name-10/">Project Name 10</a>
+      
+    </li>
+  
+  </ol>
+
+    </li>
+      <li>
+      <a href="./?/about/">INFO</a>
+      
+    </li>
+      <li>
+      <a href="./?/contact-me/">LINKS</a>
+      
+    </li>
+  
+</ul>
+          </div>
+      </h1>
+        <hr>
+        
+             <ul class="projects">
+              <li class="col seven">
+          <h2 class="col five">
+            
+            <a href="./?/projects/test/">TRAVELOGUE <br> <h3 class="description">2013 - (PREPARING FOR A TABLETOP DOLLY) - FILM</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/10.project-1/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/project-1/">DESERT FOR EVER <br> <h3 class="description">2013 - A FILM ADAPTATION - FILM</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/9.movie-project-2/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/movie-project-2/">Movie Project 2 <br> <h3 class="description">2009, Feb–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/8.project-name-3/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/project-name-3/">The Test Project 3 <br> <h3 class="description">2009, Aug–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/7.youtube-project-4/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/youtube-project-4/">Youtube Project 4 <br> <h3 class="description">2009, Dec–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/6.vimeo-project-5/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/vimeo-project-5/">The Vimeo Project 5 <br> <h3 class="description">2009, Jun–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/5.swf-project-6/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/swf-project-6/">The SWF Project 6 <br> <h3 class="description">2009, Jun–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/4.mixed-media-project-7/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/mixed-media-project-7/">The Mixed Media Project 7 <br> <h3 class="description">2009, Jun–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/3.project-name-8/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/project-name-8/">The Test Project 8 <br> <h3 class="description">2009, Jun–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/2.project-name-9/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/project-name-9/">Project 9 <br> <h3 class="description">2009, Jun–</h3> </a>
+
+          </h2>
+          
+        </li>
+              <li class="col seven">
+          <h2 class="col five">
+            <img src="./content/4.projects/1.project-name-10/thumb.jpg" class="project-thumb" alt=""> 
+            <a href="./?/projects/project-name-10/">The Test Project 10 <br> <h3 class="description">2011, Jun–</h3> </a>
+
+          </h2>
+          
+        </li>
+      
+    </ul>
+    
+      </div>
+      <hr>
+      <p id="footer" class="col six">&copy; Copyright SOREN AAGAARD 2014<br>
+    </div>
+  </body>
+</html>
+<!-- Stacey(2.3.0): 6a2541a4250cdf25b348bb36b78250f7 -->
